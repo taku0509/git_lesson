@@ -2,4 +2,3 @@ This is Test!
 add 
 
 リモート側で変更してみる
-tsuika dayo
